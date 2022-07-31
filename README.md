@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-  [Deploy Link:](https://62e62286c9d37421c4ac8c73--glittery-cendol-69658f.netlify.app/).
+  [Deploy Link:](https://62e62286c9d37421c4ac8c73--glittery-cendol-69658f.netlify.app/)
   [PPT LINK:](https://docs.google.com/presentation/d/1JdT8ljXEJFIJifP1wCvH0l4wkOP2ExPO/edit?usp=sharing&ouid=112363796125699358898&rtpof=true&sd=true)
-  [Blender File Link:] (https://drive.google.com/drive/folders/1zc6PmQeRVwgvdm2c-PPa71nT5EYxDfcL?usp=sharing)
+  [Blender File Link:](https://drive.google.com/drive/folders/1zc6PmQeRVwgvdm2c-PPa71nT5EYxDfcL?usp=sharing)
 ## Available Scripts
 
 In the project directory, you can run:
