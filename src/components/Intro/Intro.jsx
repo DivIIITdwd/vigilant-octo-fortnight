@@ -32,7 +32,7 @@ const Intro = () => {
           </span>
         </div>
         {/* <Link to="https://rayha.shapespark.com/final429/#meeting-key=g0L9iEFWdnJEbl3A" smooth={true} spy={true}> */}
-        <a  href="https://rayha.shapespark.com/final429/#meeting-key=g0L9iEFWdnJEbl3A"><button className="button i-button">Enter the shop</button></a> 
+        <a  href="https://legenddiv007.shapespark.com/main/#meeting-key=3drc4Hvm8xmwEpiV"><button className="button i-button">Enter the shop</button></a> 
         {/* </Link> */}
         {/* social icons */}
         {/* <div className="i-icons">
